@@ -1,0 +1,681 @@
+@media all and (max-width: 1350px) {
+  .nav__inner .nav__list {
+    width: 50%;
+  }
+  .discount_doublebtn {
+    width: 22%;
+  }
+  .discount_doublebtn #getacc {
+    width: 75%;
+  }
+  .discount h2 {
+    font-size: 60px;
+  }
+  .discount p {
+    font-size: 14px;
+  }
+  .recomms > p {
+    width: 39%;
+  }
+  .link_left h4 {
+    font-size: 24px;
+  }
+  .link_right {
+    width: 70%;
+  }
+}
+
+@media all and (max-width: 1300px) {
+  .nav__list {
+    width: 60%;
+  }
+  .discount_doublebtn {
+    width: 24%;
+  }
+  .discount_doublebtn #getacc {
+    width: 73%;
+  }
+  .discount h2 {
+    font-size: 55px;
+  }
+  .discount p {
+    width: 39%;
+  }
+  .recomms > p {
+    width: 41%;
+  }
+  .link_left h4 {
+    font-size: 30px;
+  }
+}
+
+@media all and (max-width: 1220px) {
+  .discount_doublebtn {
+    width: 30%;
+  }
+  .discount h2 {
+    font-size: 50px;
+  }
+  .celebrities__backg img {
+    width: 40px;
+    height: 40px;
+  }
+  .celebrities__backg h4 {
+    font-size: 14px;
+  }
+  .celebrities__backg p {
+    margin-top: 5px;
+    font-size: 14px;
+  }
+  .link_left h4 {
+    font-size: 22px;
+  }
+}
+
+@media all and (max-width: 1180px) {
+  .nav__logIn {
+    width: 22%;
+  }
+  .link_left h4 {
+    font-size: 18px;
+  }
+  .link_right {
+    width: 80%;
+  }
+}
+
+@media all and (max-width: 1100px) {
+  .nav__inner .nav__list {
+    width: 55%;
+  }
+  .nav__inner img {
+    margin-right: 5%;
+  }
+  .discount h2 {
+    font-size: 46px;
+  }
+  .team_left {
+    width: 60%;
+  }
+  .team_left img {
+    width: 500px;
+  }
+  .team_right h2 {
+    font-size: 14px;
+  }
+  .right-card p {
+    font-size: 12px;
+  }
+  .benefits h2 {
+    font-size: 38px;
+  }
+  .benefits-item h3 {
+    font-size: 16px;
+  }
+  .benefits-item p {
+    width: 80%;
+    font-size: 14px;
+  }
+  .description-left h2 {
+    width: 80%;
+    font-size: 30px;
+  }
+
+  .description-left p {
+    width: 413px;
+    font-size: 16px;
+  }
+
+  .stats {
+    width: 100%;
+  }
+  .stats__description {
+    width: 70%;
+  }
+
+  .stats__description img {
+    padding-left: 10px;
+    width: 90%;
+  }
+
+  .description-left h2 {
+    width: 341px;
+    font-size: 26px;
+  }
+
+  .description-left p {
+    margin-top: 0;
+    width: 90%;
+    font-size: 12px;
+  }
+
+  .description-left button {
+    margin-top: 24px;
+    width: 44%;
+  }
+
+  .link_right {
+    width: 100%;
+  }
+}
+
+@media all and (max-width: 900px) {
+  .nav__inner {
+    padding: 0;
+  }
+  .nav__logIn {
+    width: 20%;
+  }
+  .discount_doublebtn {
+    width: 38%;
+  }
+  .discount h2 {
+    font-size: 36px;
+  }
+  .discount p {
+    width: 60%;
+  }
+  .input_company::placeholder {
+    font-size: 12px;
+  }
+  .discount_email button {
+    font-size: 12px;
+  }
+  .trust_companies p {
+    font-size: 14px;
+  }
+  .team_window {
+    height: 520px;
+  }
+  .team_left img {
+    width: 500px;
+  }
+  .team_right .right-card {
+    padding-top: 7px;
+    padding-left: 5px;
+    width: 90%;
+  }
+  .right-card p {
+    font-size: 9px;
+    width: 96%;
+  }
+  .benefits h2 {
+    text-align: center;
+    font-size: 30px;
+    margin: 5px auto;
+  }
+  .benefits__list {
+    margin-top: 20px;
+    align-self: center;
+  }
+  .stats {
+    width: 100%;
+    height: 390px;
+  }
+  .stats__description {
+    width: 80%;
+  }
+
+  .stats__description img {
+    width: 60%;
+  }
+
+  .description-left h2 {
+    width: 341px;
+    font-size: 26px;
+  }
+
+  .description-left p {
+    margin-top: 0;
+    width: 90%;
+    font-size: 12px;
+  }
+
+  .description-left button {
+    margin-top: 24px;
+    width: 44%;
+  }
+  .recomms {
+    margin: 10px auto;
+  }
+
+  .recomms h2 {
+    width: 394px;
+    height: 96px;
+    font-size: 30px;
+  }
+
+  .recomms > p {
+    margin-top: 0;
+    font-size: 14px;
+  }
+  .celebrities {
+    width: 80%;
+    margin-top: 20px;
+  }
+  .link_left {
+    margin-left: 20px;
+  }
+  .link_left h4 {
+    font-size: 14px;
+    width: 100%;
+  }
+  .link_right {
+    width: 70%;
+  }
+
+  .link_right a img {
+    width: 90%;
+  }
+}
+
+@media all and (max-width: 800px) {
+  .team_window {
+    height: 430px;
+  }
+  .team_left {
+    margin-top: 20px;
+  }
+  .team_left img {
+    width: 400px;
+  }
+  .team_right {
+    margin-top: 20px;
+  }
+}
+
+@media all and (max-width: 740px) {
+  nav .nav__inner .nav__list {
+    display: none;
+  }
+  .nav__logIn {
+    display: none;
+  }
+  .nav__inner {
+    display: flex;
+    justify-content: space-around;
+  }
+  .nav__inner img {
+    width: 20%;
+  }
+  .navbar_btn_burger {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* width: 20%; */
+    /* align-items: center; */
+  }
+  .navbar_btn_burger img {
+    width: 90%;
+  }
+  .navbar_btn_burger p {
+    font-size: 12px;
+    padding-top: 10%;
+    text-align: left;
+  }
+  .discount_doublebtn {
+    display: flex;
+    justify-content: center;
+  }
+  #saveprcnt {
+    display: none;
+  }
+  #getacc {
+    margin-left: 0;
+  }
+  .discount p {
+    text-align: justify;
+    width: 45%;
+  }
+  .discount_email {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 70%;
+  }
+  .discount_email input {
+    margin: 0;
+  }
+  .discount_email button {
+    margin-top: 10px;
+    width: 65%;
+    border-radius: 4px;
+  }
+  .graph {
+    width: 100%;
+  }
+  .graph img {
+    width: 95%;
+  }
+  #slack_logo {
+    display: none;
+  }
+  .team_window {
+    height: max-content;
+  }
+  .team {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+  }
+  .team_left {
+    width: 100%;
+    align-self: center;
+  }
+  .team_left img {
+    width: 95%;
+  }
+  .team_right {
+    margin-left: 0;
+    justify-content: start;
+    width: 100%;
+  }
+  .team_right .right-card {
+    display: flex;
+    align-items: center;
+    width: 95%;
+  }
+  .right-card:nth-child(1) {
+    border-radius: 8px 8px 0px 0px;
+    border-left: 0;
+    border-bottom: 8px solid #794cff;
+    background-color: #f6f3fc;
+  }
+  .right-card h2 {
+    font-size: 24px;
+    align-self: center;
+  }
+  .right-card p {
+    text-align: center;
+    width: 65%;
+    font-size: 20px;
+    margin-bottom: 10%;
+  }
+  .benefits__list {
+    display: flex;
+    flex-direction: column;
+  }
+  .benefit-secondRow {
+    display: none;
+  }
+  .benefits-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 5%;
+  }
+  .benefits-item h3 {
+    font-size: 18px;
+  }
+  .benefits-item p {
+    width: 100%;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 2%;
+  }
+  .benefit_more_button {
+    align-self: self-start;
+  }
+  .benefit_more_button button {
+    display: block;
+    width: 260%;
+    margin-top: 20%;
+    font-weight: bold;
+  }
+  .stats {
+    height: max-content;
+  }
+  .stats__description {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .stats__description img {
+    width: 110%;
+  }
+  .description-left {
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .description-left h2 {
+    text-align: center;
+    font-size: 24px;
+    width: 45%;
+  }
+  .description-left p {
+    text-align: center;
+    font-size: 18px;
+    width: 60%;
+    margin-bottom: 2%;
+  }
+  .description-left button {
+    width: 65%;
+  }
+
+  .recomms h2 {
+    font-size: 24px;
+  }
+  .recomms > p {
+    font-size: 20px;
+    width: 68%;
+  }
+
+  .recomms__bars {
+    width: 90%;
+  }
+
+  .celebrities:nth-child(1) {
+    display: flex;
+    flex-direction: column;
+    border-top: 0;
+  }
+
+  .celebrities__backg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    margin-top: 5%;
+  }
+  .celebrities__backg h4 {
+    text-align: center;
+  }
+  .celebrities__backg p {
+    margin-top: 2%;
+  }
+
+  #frank {
+    display: none;
+  }
+  #beth {
+    display: none;
+  }
+  .download__link {
+    width: 100%;
+  }
+  .link__bar {
+    width: 100%;
+    padding: 25% 0;
+    border-radius: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .link_left {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+  }
+  .link_left h4 {
+    text-align: center;
+    font-size: 25px;
+  }
+  .link_right {
+    /* width: 100%; */
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+  }
+  .link_right a {
+    margin-top: 4%;
+    margin-right: 0;
+    display: flex;
+    justify-content: center;
+  }
+  .link_right a img {
+    align-self: center;
+    width: 33%;
+  }
+
+  .footer__list {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .footer__list_item {
+    margin-top: 6%;
+  }
+  .footer__list_item:nth-child(1),
+  .footer__list_item:nth-child(2),
+  .footer__list_item:nth-child(3) {
+    display: flex;
+    justify-content: space-between;
+  }
+  .footer__list_item p,
+  .footer__socials {
+    display: none;
+  }
+
+  .footer__list_item h3 {
+    position: relative;
+  }
+
+  .footer__list_item i {
+    display: inline;
+  }
+  .footer_ending {
+    margin-bottom: 5%;
+  }
+}
+
+@media all and (max-width: 510px) {
+  .discount_doublebtn {
+    width: 50%;
+  }
+  .discount_doublebtn #getacc {
+    width: 100%;
+  }
+  .discount p {
+    text-align: justify;
+    width: 60%;
+    margin-bottom: 5%;
+  }
+  .discount_email {
+    width: 94%;
+  }
+  .discount_email input {
+    margin: 0;
+  }
+
+  .description-left p {
+    text-align: center;
+    font-size: 18px;
+    width: 60%;
+    margin-bottom: 10%;
+  }
+  .description-left button {
+    width: 65%;
+  }
+
+  .recomms h2 {
+    font-size: 20px;
+    width: 46%;
+  }
+  .recomms > p {
+    font-size: 20px;
+    width: 68%;
+    margin-bottom: 10%;
+  }
+
+  .link_left {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    width: 70%;
+  }
+}
+
+@media all and (max-width: 430px) {
+  .nav__inner img {
+    width: 40%;
+  }
+  .navbar_btn_burger {
+    width: 20%;
+  }
+  .navbar_btn_burger img {
+    width: 100%;
+  }
+
+  .navbar_btn_burger p {
+    font-size: 12px;
+    padding-top: 10%;
+    text-align: center;
+  }
+
+  .discount h2 {
+    font-size: 28px;
+  }
+
+  .right-card h2 {
+    font-size: 22px;
+  }
+
+  .right-card p {
+    font-size: 18px;
+  }
+
+  .recomms > p {
+    font-size: 18px;
+  }
+}
+
+@media all and (max-width: 380px) {
+  .discount_doublebtn #getacc {
+    width: 130%;
+  }
+  .trust_companies p {
+    text-align: center;
+    font-size: 12px;
+  }
+  .trust_companies img {
+    width: 20%;
+  }
+
+  .right-card p {
+    margin-bottom: 20%;
+  }
+
+  .benefits h2 {
+    font-size: 18px;
+    text-align: center;
+    width: 80%;
+  }
+
+  .description-left h2 {
+    width: 80%;
+  }
+
+  .description-left p {
+    text-align: center;
+    font-size: 18px;
+    width: 60%;
+    margin-bottom: 30%;
+  }
+
+  .recomms > p {
+    margin-bottom: 20%;
+  }
+}
